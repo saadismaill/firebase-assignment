@@ -37,5 +37,5 @@ Fetch products dynamically from API
 Display product images, titles, and prices
 
 
-<h1>https://firebase-assignment-3oqbf345u-todoapps-projects-44750d00.vercel.app/index.html
-</h1>
+click here link mentioned below:
+<h3>https://firebaseusingallfeatures.netlify.app/</h3>
