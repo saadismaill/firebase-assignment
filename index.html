@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Login / Signup</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <!-- app.js is module -->
+  <script type="module" src="app.js" defer></script>
+</head>
+<body class="bg-slate-800 flex items-center justify-center min-h-screen">
+  <div class="bg-white shadow-lg rounded-lg p-12 w-full max-w-lg">
+    <h2 class="text-3xl font-bold mb-8 text-center text-black">Login / Signup Using Firebase</h2>
+
+    <input id="name" type="text" placeholder="Enter Name"
+      class="w-full px-5 py-3 mb-5 border border-yellow-300 rounded-lg text-lg focus:outline-none focus:ring-2 focus:ring-yellow-400" />
+    <input id="email" type="email" placeholder="Enter Email"
+      class="w-full px-5 py-3 mb-5 border border-yellow-300 rounded-lg text-lg focus:outline-none focus:ring-2 focus:ring-yellow-400" />
+    <input id="password" type="password" placeholder="Enter Password"
+      class="w-full px-5 py-3 mb-8 border border-yellow-300 rounded-lg text-lg focus:outline-none focus:ring-2 focus:ring-yellow-400" />
+
+    <div class="flex justify-between">
+      <button id="signupBtn"
+        class="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg text-lg font-semibold">Signup</button>
+      <button id="loginBtn"
+        class="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg text-lg font-semibold">Login</button>
+    </div>
+  </div>
+</body>
+</html>
