@@ -37,5 +37,10 @@ Fetch products dynamically from API
 Display product images, titles, and prices
 
 
+<h2>must follow on my linkedin as well!</h2>
+<h3><p>https://www.linkedin.com/posts/saadismail-dev_firebasedevelopment-javascriptdeveloper-webappdevelopment-activity-7360414591362691073-uRI0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB8XXT0BZ2t1YCKIpqWXy-PluIGxtz6k7dI</p></h3>
+
 click here link mentioned below:
 <h3>https://firebaseusingallfeatures.netlify.app/</h3>
+
+
